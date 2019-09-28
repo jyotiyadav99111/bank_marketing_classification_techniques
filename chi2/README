@@ -1,0 +1,1 @@
+The file "chi2_test.py" contains the manual method of caculating the chi2 values for a dataframe instead of using the sklearn library.
